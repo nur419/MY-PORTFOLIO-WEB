@@ -57,6 +57,8 @@ nav ul{
 
 .banner{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     margin: 0 35px 0 200px;
 }
 
@@ -68,13 +70,61 @@ nav ul{
     font-size: 30px;
     
 }
-.banner_des{
 
-}
 /*<===========banner style start=========>*/
-/*<===========common style=========>*/
+
+/*<===========about style start=========>*/
+.about{
+    width: 1140px;
+    /* height: 550px; */
+    margin: 130px auto;
+    border-radius: 5px;
+    background-color: #e2dbdb;
+    padding: 130px 150px;
+    text-align: center;
+}
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/*<===========about style start=========>*/
+.skill{
+    width: 1140px;
+    background-color: #e2dbdb;
+    padding: 40px 150px;
+    margin: auto;
+    border-radius: 5px;
+    
+}
+.skill_title{
+    text-align: center;
+    font-size: 30px;
+}
+.parent{
+    display: flex;
+    gap: 30px;
+    /* align-items: center;
+    justify-content: space-between; */
+}
+.child{
+     
+    box-shadow: 0px 6px 50px 0px rgb(219, 200, 200);
+    padding: 30px;
+}
+.child_title{
+    
+}
+/*<===========about style end=========>*/
 /*<===========common style start=========>*/
 /*<===========common style start=========>*/
 /*<===========common style start=========>*/
 /*<===========common style start=========>*/
 /*<===========common style start=========>*/
+/*<===========common style start=========>*/
+
+/*<===========common style start=========>*/
+/*<===========common style start=========>*/
+/*<===========common style start=========>*/
+
