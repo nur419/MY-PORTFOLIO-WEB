@@ -121,13 +121,52 @@ nav ul{
     padding: 40px 150px;
     margin: 50px auto;
     border-radius: 5px;
+    
 }
 .resume-container{
      display: flex;
      gap: 24px;
 }
+.middle{
+    text-align: center;
+    margin-top: 40px;
+}
+
 /*<===========common style start=========>*/
-/*<===========common style start=========>*/
+
+
+/*<===========fooer style start=========>*/
+footer{
+    background-color: aliceblue;
+}
+.footer-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.box{
+    width: 300px;
+}
+.icons{
+    display: flex;
+    gap: 10px;
+}
+.footer-input{
+    margin-top: 120px;
+}
+input[type=text]{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: none;
+}
+input[type=email]{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 10px;
+   border-style: none;
+}
 /*<===========common style start=========>*/
 /*<===========common style start=========>*/
 /*<===========common style start=========>*/
